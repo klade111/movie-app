@@ -1,0 +1,12 @@
+.homeheader{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.homebody{
+    display: flex;
+    justify-content: space-around;
+
+}
